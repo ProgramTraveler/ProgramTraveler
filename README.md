@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-### I'am Wang Jiuming
+### About me
 
 - 🌱 A Computer Engineering graduate Student. & Open Source enthusiast.
 
