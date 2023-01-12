@@ -1,4 +1,4 @@
-### Hi Welcome to my world 👋
+## Hi Welcome to my world 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ✍️
 -->
 
+---
+
 ### I'am Wang Jiuming
 
 - 🌱 A Computer Engineering graduate Student. & Open Source enthusiast.
@@ -34,11 +36,15 @@ Here are some ideas to get you started:
 
 - 😄 理工酸菜鱼一条
 
+---
+
 ### How to reach me
 
 * 📫QQ : 2115655391
 
 * 📫email : 2115655391@qq.com
+
+---
 
 ###  技术栈 | Tech Stack
 
@@ -46,6 +52,8 @@ Here are some ideas to get you started:
 
 * 🛸&#160;![MySQL](https://img.shields.io/badge/-MySQL-green) ![Orange](https://img.shields.io/badge/-Oracle-orange)
 * 👨🏽‍💻&#160;![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-red) ![Markdown](https://img.shields.io/badge/-Markdown-blue)
+
+---
 
 ### 主页访问量
 
