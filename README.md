@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Welcome to my world 👋
 
 <!--
 **ProgramTraveler/ProgramTraveler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,11 +22,17 @@ Here are some ideas to get you started:
 
 ### I'am Wang Jiuming
 
--🌱 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🌱 A Computer Engineering graduate Student. & Open Source enthusiast.
 
--🔭 Postgraduate education.
+- 🔭 Postgraduate education (湖南某大学研究生学渣 穷究于理 成就于工).
 
--⚡ Algorithm enthusiast.
+- ⚡ Algorithm enthusiast (动态规划的人生一定比贪心有趣).
+
+- ⭐ 算法酱油选手 [Leetcode](https://leetcode.cn/u/solitary-scorpio/)
+
+- ⭐ 没事发发博客 [CSDN](https://blog.csdn.net/A_SMAKE_A?spm=1010.2135.3001.5343)
+
+- 😄 理工酸菜鱼一条
 
 ### How to reach me
 
