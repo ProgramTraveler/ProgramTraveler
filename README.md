@@ -1,7 +1,5 @@
 ## Hi Welcome to my world 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 <!--
 **ProgramTraveler/ProgramTraveler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +19,8 @@ Here are some ideas to get you started:
 -->
 
 ---
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### About me
 
