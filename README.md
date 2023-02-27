@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 * 🛸&#160;![MySQL](https://img.shields.io/badge/-MySQL-green) ![Orange](https://img.shields.io/badge/-Oracle-orange)
 * 👨🏽‍💻&#160;![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-red) ![Markdown](https://img.shields.io/badge/-Markdown-blue)
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ProgramTraveler&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+
 ---
 
 ### 主页访问量
