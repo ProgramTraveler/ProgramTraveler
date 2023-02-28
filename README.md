@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 * 📫email : 2115655391@qq.com
 
-[![ProgramTraveler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramTraveler&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Help's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramTraveler&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
