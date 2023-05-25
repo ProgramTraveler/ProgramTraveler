@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 - 😄 理工酸菜鱼一条
 
+- [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 ---
 
 ### How to reach me
@@ -43,7 +45,6 @@ Here are some ideas to get you started:
 * 📫QQ : 2115655391
 
 * 📫email : 2115655391@qq.com
-
 
 <!-- <img align="ceter" src="https://github-readme-stats.zohan.tech/api?username=ProgramTraveler&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Help's Github Stats" /> -->
 
