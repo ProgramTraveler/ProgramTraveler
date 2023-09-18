@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 - ⭐ 没事发发博客 [CSDN](https://blog.csdn.net/A_SMAKE_A?spm=1010.2135.3001.5343)
 
+- ⭐ kaggle 插班生 [kaggle](https://www.kaggle.com/chhelp)
+
 - 😄 理工酸菜鱼一条
 
 <!-- - [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode) -->
