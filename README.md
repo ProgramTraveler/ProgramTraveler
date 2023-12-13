@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ### How to reach me
 
-* 📫QQ : 2115655391
+* 📫QQ : 1929889858
 
-* 📫email : 2115655391@qq.com
+* 📫email : wangjiuming@cowa.com
 
 <!-- <img align="ceter" src="https://github-readme-stats.zohan.tech/api?username=ProgramTraveler&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Help's Github Stats" /> -->
 <!-- ![Help's GitHub](https://github-readme-stats.vercel.app/api?hide=issues,contribs&include_all_commits=true&username=ProgramTraveler) -->
