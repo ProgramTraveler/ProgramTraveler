@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### How to reach me
 
-* 📫QQ : 1929889858
+* 📫QQ : 1929889858(小号，不时常关注消息)
 
 * 📫email : wangjiuming@cowa.com
 
