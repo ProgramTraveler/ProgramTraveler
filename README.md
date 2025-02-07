@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 * 📫QQ : 1929889858(小号，不时常关注消息)
 
-* 📫email : wangjiuming@cowa.com
+* 📫email : 1929889858@qq.com
 
 <!-- <img align="ceter" src="https://github-readme-stats.zohan.tech/api?username=ProgramTraveler&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Help's Github Stats" /> -->
 <!-- ![Help's GitHub](https://github-readme-stats.vercel.app/api?hide=issues,contribs&include_all_commits=true&username=ProgramTraveler) -->
