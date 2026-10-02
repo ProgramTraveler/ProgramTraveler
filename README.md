@@ -64,6 +64,3 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ProgramTraveler&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 
 ---
-
-### 主页访问量
-![Profile views](https://komarev.com/ghpvc/?username=ProgramTraveler&label=Profile%20views&color=0e75b6&style=flat)
