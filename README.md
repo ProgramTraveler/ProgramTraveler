@@ -66,5 +66,4 @@ Here are some ideas to get you started:
 ---
 
 ### 主页访问量
-
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=ProgramTraveler&label=Profile%20views&color=0e75b6&style=flat)
